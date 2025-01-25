@@ -57,5 +57,7 @@ body {
 }
 
 .panel {
-	background-color: white
+	background-color: white;
+	justify-content: center;
+	min-height: 100vh;
 }
