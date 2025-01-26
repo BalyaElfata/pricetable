@@ -79,7 +79,8 @@ body {
 
 .pricing-img {
 	width: 20%;
-	margin: 25px;
+	margin-bottom: 25px;
+	filter: invert(52%) sepia(64%) saturate(3744%) hue-rotate(195deg) brightness(101%) contrast(99%);
 }
 
 .pricing-features {
