@@ -79,6 +79,7 @@ body {
 
 .pricing-img {
 	width: 20%;
+	margin-top: 100px;
 	margin-bottom: 25px;
 	filter: invert(52%) sepia(64%) saturate(3744%) hue-rotate(195deg) brightness(101%) contrast(99%);
 }
@@ -142,5 +143,9 @@ body {
 		border-bottom: none;
 		border-right: 1px solid #e1f1ff;
 		padding: 25px;
+	}
+
+	.pricing-img {
+		margin-top: 0px;
 	}
 }
