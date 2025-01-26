@@ -53,7 +53,7 @@ html {
 }
 
 body {
-	background-color: #529ffa;
+	background: -webkit-linear-gradient(top, #60a9ff 0%,#4394f4 100%);
 	display: flex;
 	justify-content: center;
 	min-height: 100vh;
